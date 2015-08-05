@@ -10,4 +10,6 @@
 8. ;;load-path を追加
 (add-to-list 'load-path "c:/home/.emacs.d/lisp/")
 9. download grep-2.5.4-setup.exe & grep-2.5.4-src-setup.exe
-10. install aspell http://emacswiki.org/emacs/AspellWindowshttp://aspell.net/win32/
+10. install aspell http://emacswiki.org/emacs/AspellWindows
+                   http://aspell.net/win32/
+                   
