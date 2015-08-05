@@ -12,4 +12,5 @@
 9. download grep-2.5.4-setup.exe & grep-2.5.4-src-setup.exe
 10. install aspell http://emacswiki.org/emacs/AspellWindows
                    http://aspell.net/win32/
-                   
+                   http://oku.edu.mie-u.ac.jp/~okumura/texwiki/?Aspell
+11. 
